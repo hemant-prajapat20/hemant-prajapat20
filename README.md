@@ -1,10 +1,10 @@
 💫 Hi 👋, I'm Hemant Prajapat
-A passionate Full-Stack Developer || MERN Stack Developer || Software Engineer
+A passionate Software Engineer || Full-Stack Developer || MERN Stack Developer 
 
 Email Me 👉 ✉️ hemmuprajapat143@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 •	🔭 I’m currently working on: Full-Stack MERN Applications & Real-Time Web Projects.                                                                                        
-•	🌱 I’m currently learning: Next.js, Bootstrap, PostgreSQL & AI Tools                                                                                                               
+•	🌱 I’m currently learning: Next.js, Python, PostgreSQL & AI Tools                                                                                                               
 •	👨‍💻 I’m currently doing: Full Stack Developer Internship                                                                                                                    
 •	💬 Ask me about: C++, OOps, MERN Stack, TypeScript, REST APIs & MongoDB                                                                                                    
 •	📫 How to reach me: hemmuprajapat143@gmail.com                                                                                                                             
