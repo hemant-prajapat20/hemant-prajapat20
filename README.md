@@ -1,18 +1,18 @@
 💫 Hi 👋, I'm Hemant Prajapat
 
-Full-Stack Developer || MERN Stack Developer 
+Software Developer || Full-Stack Developer || MERN Stack Developer 
 
 Email Me 👉 ✉️ hemmuprajapat143@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-•	🔭 I’m currently working on: Full-Stack MERN Applications & Real-Time Web Projects.                                                                                        
-•	🌱 I’m currently learning: Next.js, Python, PostgreSQL & AI Tools                                                                                                               
+•	🔭 I’m currently working on: Software Developer Applications, Full-Stack MERN Applications & Real-Time Web Projects.                                                                                        
+•	🌱 I’m currently learning: Advanced Backend Architecture, Good Prompting & Latest AI Tools & its features etc.                                                                                                               
 •	👨‍💻 I’m currently doing: Full Stack Developer Job at Coachify Jaipur                                                                                                                    
-•	💬 Ask me about: C++, OOps, MERN Stack, TypeScript, REST APIs & MongoDB                                                                                                    
-•	📫 How to reach me: hemmuprajapat143@gmail.com                                                                                                                             
+•	💬 Ask me about: C++, OOps, MERN Stack(Nextjs), TypeScript, REST APIs, Performance optimization, Git-Github & MongoDB, Figma UI to Code                                                                                              
+•	📫 How to reach me: hemmuprajapat143@gmail.com & 9664420413(whatsapp💬)                                                                                                                             
 •	😄 Pronouns: He/Him                                                                                                                                                        
 •	⚡ Fun fact: I enjoy turning real-world problems into scalable web applications 🚀                                                   
-•	💼 I’m actively seeking Software developer role opportunities where I can contribute, learn, and grow as a software engineer.
-
+•	💼 I’m actively seeking Software Developer role opportunities where I can contribute, learn, and grow as a software Engineer.
+ 
 
 
 ## 🌐 Socials:
